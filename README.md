@@ -1,1 +1,1 @@
-Even when running you're going one step at time
+Even when running we're only taking one step at time.
